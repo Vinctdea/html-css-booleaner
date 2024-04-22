@@ -1,6 +1,10 @@
 *{
     margin: 0;
 }
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+}
 header{
     background-color: rgba(26, 107, 214,0.7);
     background-image: url(../img/pattern.png);
