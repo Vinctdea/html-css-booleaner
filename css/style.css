@@ -35,4 +35,21 @@ header{
         max-height: 300px;
     }
 
-    
+    .marker{
+        background-color: yellow;
+    }
+    thead{
+        background-color: rgb(66, 140, 252);
+    }
+
+    .white{
+        color: white;
+    }
+    table {
+        table-layout: fixed;
+        width: 1000px;
+        }
+
+    .ciano{
+        background-color: aquamarine;
+    }    
